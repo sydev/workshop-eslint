@@ -1,0 +1,12 @@
+{
+  "name": "workshop-eslint-02",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint src/*"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
